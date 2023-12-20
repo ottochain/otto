@@ -11,9 +11,9 @@ make install
 ## Mainnet
 
 * [genesis.json](./mainnet/genesis.json)
-* [persistent_peers](./mainnet/app.persistent_peers.toml)
+* [persistent_peers](./mainnet/config.persistent_peers.toml)
 
 ## Testnet
 
 * [genesis.json](./testnet/genesis.json)
-* [persistent_peers](./testnet/app.persistent_peers.toml)
+* [persistent_peers](./testnet/config.persistent_peers.toml)
